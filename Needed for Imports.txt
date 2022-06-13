@@ -1,0 +1,5 @@
+pip install requests
+pip install pywin32 (for Windows OS)
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pyaudio (might need to manually obtain it)
