@@ -1,7 +1,7 @@
 # Covid-19 Web Scraper With Voice Detection
 
 A simple voice recognition application that gives the user various amount of information about COVID-19 in respect to what they request verbally.
-The purpose of this program is to give a user updates about COVID-19 cases, both in general and country specific. Using python's speech recognition, a user can verbally ask the program for specific data regarding the COVID-19 cases. To ensure updated information of cases, a third party application, ParseHub, scrapes the following website: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1FiTVBRQU5rLUt1cVRmOEpXT0lDbUVBX0xrd3xBQ3Jtc0tsWGU2bVpnOVd3bjBkY1FER24xVk5TdnBocUJLVTYyZ1o1X1QzWFB3QnJmN2NfVkk1Nkl6Z2p2eHhXeWVjQ0FkRzZWTWFZaTlpM1daYVpqeXZ3UGk0ZEZWTElyTk1rdUh4WG1TemI2R1EwXy12cTRjUQ&q=https%3A%2F%2Fwww.worldometers.info%2Fcoronavirus%2F to obtain the updated relevant information.
+The purpose of this program is to give a user updates about COVID-19 cases, both in general and country specific. Using python's speech recognition, a user can verbally ask the program for specific data regarding the COVID-19 cases. To ensure updated information of cases, a third party application, ParseHub, scrapes the following website: https://www.worldometers.info/coronavirus/ to obtain the updated relevant information.
 
 Example usage of program:
 	Asking the program any of these will deliver a response accordingly both through audio output and in the terminal:
